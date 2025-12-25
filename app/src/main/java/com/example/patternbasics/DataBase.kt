@@ -10,7 +10,6 @@ fun getEventsInRealtime() = listOf(
     Result(7, "Tenis", listOf("España", "México", "Colombia"))
 )
 
-/*
 fun getResultEventsInRealtime() = listOf(
     SportEvent.ResultSuccess(1, "Fútbol", listOf("Italia", "Perú", "Corea del Sur")),
     SportEvent.ResultSuccess(2, "Levantamiento de Pesas", listOf("Mongolia", "Alemania", "Turquía")),
@@ -26,4 +25,4 @@ fun getResultEventsInRealtime() = listOf(
 fun getAdEventsInRealtime() = listOf(
     SportEvent.AdEvent,
     SportEvent.AdEvent
-)*/
+)
